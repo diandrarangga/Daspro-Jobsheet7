@@ -36,7 +36,7 @@ public class KafeDOWHILE {
             input.nextLine(); 
         } while (true);
 
-        System.out.println("Semua transaksi selesai. Terima kasih!");
+        System.out.println("Semua transaksi selesai, Terima kasih!");
         input.close();
     }
 }
